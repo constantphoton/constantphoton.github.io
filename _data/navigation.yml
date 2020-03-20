@@ -2,11 +2,15 @@
 main:
   - title: "Show All"
     url: https://constantphoton.github.io/
+
   - title: "About"
     url: /about/
+
   - title: "2nd Project"
     url: /2nd_Project/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+
+  - title: "Categories"
+    url: /categories/
+
   # - title: "Sitemap"
   #   url: /sitemap/
