@@ -1,6 +1,8 @@
 ﻿---
 title: "About this blog"
 permalink: /about/
-layout: about
+layout: single
 author_profile: true
 ---
+
+description for this blog
