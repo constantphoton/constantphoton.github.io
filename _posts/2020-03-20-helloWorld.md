@@ -2,7 +2,6 @@
 title: "first"
 toc: true
 toc_sticky: true
-toc_label: "write something on toc_label"
 use_math: true
 ---
 
