@@ -1,6 +1,6 @@
 ﻿---
 title: "이 블로그"
-permalink" /about/
+permalink: /about/
 layout: single
 ---
 
