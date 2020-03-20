@@ -1,5 +1,7 @@
 ﻿---
 title: "first"
+tod_sticky: true
+toc_label: "write something on toc_label"
 ---
 
 hello world
