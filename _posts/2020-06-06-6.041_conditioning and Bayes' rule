@@ -1,14 +1,19 @@
 ---
-title: 조건부 확률과 베이즈 정리
-tags: 확률통계
-tags: 6.041
+title:  "조건부 확률과 베이즈 정리"
+excerpt: "전체집합이 변한다."
+
+categories:
+  - 6.041
+tags:
+  - 확률통계
+  - 6.041
 
 toc: true
 toc_sticky: true
 use_math: true
 ---
 
-요약
+# 요약
 ---
 
 1. 조건부 확률 (conditional probability)는 전체집합이 변하는 경우를 나타낸다.
