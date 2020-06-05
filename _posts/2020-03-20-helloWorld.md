@@ -3,14 +3,6 @@ title: "first"
 toc: true
 toc_sticky: true
 use_math: true
-
-categories:
-  - 윤동주
-tags:
-  - 별 헤는 밤
-  - 윤동주
-  - 시
-
 ---
 
 #hello world
