@@ -29,6 +29,19 @@ use_math: true
 ```
 
 
+# 조건부 확률
+
+$$P(A|B)=\frac{P(A\cap B)}{P(B)}$$
+
+위 식에는 서로 다른 집합 A와 B의 관계를 통해 조건부 확률을 나타내고 있다.
+
+그러나 나는 전체집합을 포함한 식을 하나 추가함으로써 _전체집합의 변화_를 강조하고 싶다.
+ 
+ $$U\; is\; universe\\ \\
+P(A)=\frac{P(A\cap U)}{P(U)} ,\\
+P(A|B)=\frac{P(A\cap B)}{P(B)}$$
+
+
 우선 베이즈 정리의 공식부터 확인해보도록 하자. 베이즈 정리의 공식은 아래 식 (1)과 같다.
 
 $$P(H|E) = \frac{P(E|H)P(H)}{P(E)}$$
@@ -39,11 +52,6 @@ $$P(H|E) = \frac{P(E|H)P(H)}{P(E)}$$
 
 그렇다면, 우리는 사전확률과 사후확률의 의미를 파악함으로써 베이즈 정리가 말하는 바와 그 의의를 이해할 수 있을 것이다.
 
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/46151024/83891792-b27abb00-a788-11ea-90e3-7b16c05072da.jpg">
-  <br/>
-  </p>
-  
 
 
 
