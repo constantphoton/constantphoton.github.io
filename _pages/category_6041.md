@@ -1,9 +1,9 @@
 ---
-title: "6.041"
-permalink: /categories/6.041/
+title: "probability"
+permalink: /categories/probability/
 layout: category
 author_profile: true
-taxonomy: 6.041
+taxonomy: probability
 ---
 
 probability for statistics
